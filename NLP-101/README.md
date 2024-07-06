@@ -8,6 +8,8 @@
 
 3. Biswajit Mondal ([LinkedIn](https://www.linkedin.com/in/biswajitmondal94/) | [GitHub](https://github.com/bbbiswab))
 
+4. Dr Aanchal Anant Awasthi ([LinkedIn](https://www.linkedin.com/in/draanchalanantawasthi/) | [GitHub](https://github.com/DrAanchalAwasthi))
+
 #### Overview
 
 This three-month roadmap is designed to provide a comprehensive and in-depth understanding of Natural Language Processing (NLP) using Python. The roadmap is structured to guide you from the basics of text processing to advanced techniques involving deep learning and large language models. By the end of this roadmap, you will have the skills required to tackle real-world NLP problems and build state-of-the-art NLP models.
