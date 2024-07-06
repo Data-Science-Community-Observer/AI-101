@@ -10,7 +10,7 @@
   Documentation](https://pytorch.org/docs/stable/index.html), [PyTorch
   Tutorials](https://pytorch.org/tutorials/)
 
-*Day 2: Tensors in PyTorch*
+*Day 2: [Tensors in PyTorch](Day-2-Tensors-in-PyTorch)*
 
 - Introduction to Tensors.
 
