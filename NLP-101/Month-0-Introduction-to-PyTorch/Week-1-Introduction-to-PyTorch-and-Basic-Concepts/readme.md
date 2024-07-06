@@ -1,10 +1,6 @@
-
-
 ***Week 1: Introduction to PyTorch and Basic Concepts***
 
-
-
-*Day 1: Introduction to PyTorch*
+*Day 1: [Introduction to PyTorch](Day-1-Introduction-to-PyTorch)*
 
 - Overview of PyTorch and its applications.
 
