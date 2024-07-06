@@ -1,12 +1,8 @@
-
-
 **Month 0: Comprehensive One-Month Course on PyTorch**
 
 This module is part of 3 month learning NLP 101. Pytorch is kind of pre-requisite and a must have skill in domain of deep learning and NLP. 
 
-
-
-***Week 1: Introduction to PyTorch and Basic Concepts***
+***Week 1: [Introduction to PyTorch and Basic Concepts](Week-1-Introduction-to-PyTorch-and-Basic-Concepts)***
 
 *Day 1: Introduction to PyTorch*
 
@@ -215,8 +211,6 @@ This module is part of 3 month learning NLP 101. Pytorch is kind of pre-requisit
 - Preparing and presenting the capstone project.
 
 - Discussing results and potential improvements.
-
-
 
 **Additional References and Resources**
 
