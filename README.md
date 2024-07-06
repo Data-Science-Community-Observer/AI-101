@@ -2,13 +2,13 @@
 
 Welcome to the "AI-101" repository! This repository is designed to be your comprehensive guide to the world of Artificial Intelligence (AI). Whether you are a beginner starting your AI journey or an experienced practitioner looking to stay updated with the latest advancements, "AI-101" is your go-to resource.
 
-
-
 - Rakshit Varma ([LinkedIn](https://www.linkedin.com/in/rakshitvarma/) | [GitHub](https://github.com/rakshitvarma))
 
 - Himanshu Kumar Singh ([LinkedIn](https://www.linkedin.com/in/Zenision/) | [GitHub](https://github.com/Zenision))
 
 - Biswajit Mondal ([LinkedIn](https://www.linkedin.com/in/biswajitmondal94/) | [GitHub](https://github.com/bbbiswab))
+
+- Dr Aanchal Anant Awasthi ([LinkedIn](https://www.linkedin.com/in/draanchalanantawasthi/) | [GitHub](https://github.com/DrAanchalAwasthi))
 
 #### 
 
